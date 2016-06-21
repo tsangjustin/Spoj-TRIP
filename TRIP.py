@@ -1,11 +1,3 @@
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
- # Name        : trip.py
- # Author      : Michael Curry and Justin Tsang
- # Version     : 1.0
- # Date        : 3/14/2016
- # Description : Generate all subsequence for two string that are longest length
- # Pledge      : I pledge my honor that I have abided by the Stevens Honor System
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 # Function finds list of all subsequence of longest length
 def findLongestTrip(line1, line2, memo):
     # If one person does not have any cities in path
